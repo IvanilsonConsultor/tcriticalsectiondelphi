@@ -1,0 +1,34 @@
+# Delphi compiled files
+*.dcu
+*.~*
+*.ddp
+*.dsk
+*.local
+*.identcache
+*.tvsconfig
+*.dproj.local
+*.groupproj.local
+
+# Delphi backup files
+*.bak
+*.tmp
+
+# __history folder
+__history/
+
+# Generated files
+*.exe
+*.dll
+*.map
+*.bpl
+*.dcp
+*.bpi
+*.lib
+*.obj
+*.tds
+
+# Output directories
+Win32/Debug/
+Win32/Release/
+Win64/Debug/
+Win64/Release/
